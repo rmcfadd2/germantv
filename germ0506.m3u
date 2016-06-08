@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id =”Das Erste HD”, Das Erste HD
+http://tv.stream4k.net/freetv/ard.m3u8
+#EXTINF:-1 tvg-id =”ZDF HD”, ZDF HD
+http://tv.stream4k.net/freetv/zdf.m3u8
+#EXTINF:-1 tvg-id =”RTL HD”, RTL HD
+http://tv.stream4k.net/freetv/rtl.m3u8
+#EXTINF:-1 tvg-id =”SAT.1 HD”, SAT.1 HD
+http://tv.stream4k.net/freetv/sat1.m3u8
+#EXTINF:-1 tvg-id =”Prosieben HD”, Prosieben HD
+http://tv.stream4k.net/freetv/pro7.m3u8
+#EXTINF:-1 tvg-id =”RTL2 HD”, RTL2 HD
+http://tv.stream4k.net/freetv/rtl2.m3u8
+#EXTINF:-1 tvg-id =”VOX HD”, VOX HD
+http://tv.stream4k.net/freetv/vox.m3u8
+#EXTINF:-1 tvg-id =”Kabel1 HD”, Kabel1 HD
+http://tv.stream4k.net/freetv/kabel1.m3u8
+#EXTINF:-1 tvg-id =”Arte HD”, Arte HD
+http://tv.stream4k.net/freetv/arte.m3u8
+#EXTINF:-1 tvg-id =”Disney HD”, Disney HD
+http://tv.stream4k.net/freetv/disney.m3u8
+#EXTINF:-1 tvg-id =”DMAX HD”, DMAX HD
+http://tv.stream4k.net/freetv/dmax.m3u8
+#EXTINF:-1 tvg-id =”Nickelodeon HD”, Nickelodeon HD
+http://tv.stream4k.net/freetv/nickelodeon.m3u8
+#EXTINF:-1 tvg-id =”NTV HD”, NTV HD
+http://tv.stream4k.net/freetv/ntv.m3u8
+#EXTINF:-1 tvg-id =”ORF 1 HD”, ORF 1 HD
+http://tv.stream4k.net/freetv/orf1.m3u8
+#EXTINF:-1 tvg-id =”ORF 2 HD”, ORF 2 HD
+http://tv.stream4k.net/freetv/orf2.m3u8
+#EXTINF:-1 tvg-id =”Phoenix HD”, Phoenix HD
+http://tv.stream4k.net/freetv/phoenix.m3u8
+#EXTINF:-1 tvg-id =”Prosieben MAXX HD”, Prosieben MAXX HD
+http://tv.stream4k.net/freetv/pro7maxx.m3u8
+#EXTINF:-1 tvg-id =”RTL Nitro HD”, RTL Nitro HD
+http://tv.stream4k.net/freetv/rtlnitro.m3u8
+#EXTINF:-1 tvg-id =”Servus TV HD”, Servus TV HD
+http://tv.stream4k.net/freetv/servus.m3u8
+#EXTINF:-1 tvg-id =”Sixx HD”, Sixx HD
+http://tv.stream4k.net/freetv/sixx.m3u8
+#EXTINF:-1 tvg-id =”Sport1 HD”, Sport1 HD
+http://tv.stream4k.net/freetv/sport1.m3u8
+#EXTINF:-1 tvg-id =”SRF 1 HD”, SRF 1 HD
+http://tv.stream4k.net/freetv/srf.m3u8
+#EXTINF:-1 tvg-id =”SRF 2 HD”, SRF 2 HD
+http://tv.stream4k.net/freetv/srf2.m3u8
